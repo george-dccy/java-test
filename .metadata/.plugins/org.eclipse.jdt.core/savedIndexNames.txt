@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+/Users/george-dccy/github/java-test/.metadata/.plugins/org.eclipse.jdt.core
-395487168.index
-280210653.index
