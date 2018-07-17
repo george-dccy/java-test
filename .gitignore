@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .metadata
 bin/
 tmp/
@@ -54,6 +55,8 @@ local.properties
 .scala_dependencies
 .worksheet
 
+=======
+>>>>>>> 689054012fb1b710cd9f4eb55b127e8ccaed9680
 # Compiled class file
 *.class
 
@@ -77,4 +80,7 @@ local.properties
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 
+=======
+>>>>>>> 689054012fb1b710cd9f4eb55b127e8ccaed9680
