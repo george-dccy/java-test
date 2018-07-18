@@ -11,13 +11,13 @@ public class TestDog {
 
 class Animal{
 	  public void move(){
-	    System.out.println("动物可以移动");
+	    System.out.println("Animals can run.");
 	  }
 	}
 
 class Dog extends Animal{
 	  public void move(){
 	    super.move();
-	    System.out.println("狗可以跑和走");
+	    System.out.println("Dogs can run and play.");
 	  }
 }
